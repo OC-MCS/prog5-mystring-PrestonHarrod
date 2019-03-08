@@ -18,7 +18,7 @@ public:
 	/*
 	return const pointer to str
 	Params: none
-	Returns: str
+	Returns: str pointer
 	*/
 	const char *c_str() const
 	{
